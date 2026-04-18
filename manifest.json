@@ -2,6 +2,39 @@
   "apps" : [
     {
       "category" : "Development",
+      "displayName" : "Automata",
+      "dmgSHA256" : "e7d4b366524f4edc82b9fdc66446c8e653e557202aad0f07b92be2133c891b9b",
+      "dmgSize" : 2342311,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Automata\/releases\/download\/1.0.0\/Automata-1.0.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/master\/app-icons\/AutomataAppIcon.png",
+      "id" : "se.apparata.tools.Automata",
+      "summary" : "Design Swift state machines.",
+      "version" : "1.0.0"
+    },
+    {
+      "category" : "Development",
+      "displayName" : "Bootstrapp",
+      "dmgSHA256" : "84f4924ddd53e2e443244f669bc8b0446ed01b9452e1544ff113257f8d19c29d",
+      "dmgSize" : 3571896,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Bootstrapp\/releases\/download\/1.6.1\/Bootstrapp-1.6.1.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/BootstrappAppIcon.png",
+      "id" : "io.apparata.Bootstrapp",
+      "summary" : "Instantiate app project templates.",
+      "version" : "1.6.1"
+    },
+    {
+      "category" : "Design",
+      "displayName" : "Embezel",
+      "dmgSHA256" : "bebce08da6a80707b8d71af5fc84e0a38762135e812f86f3e037ab2beae3d560",
+      "dmgSize" : 17283118,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/1.1.0\/Embezel-1.1.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/EmbezelAppIcon.png",
+      "id" : "se.apparata.AppSnap",
+      "summary" : "Add a bezel to iOS screenshots.",
+      "version" : "1.1.0"
+    },
+    {
+      "category" : "Development",
       "displayName" : "RepoRanger",
       "dmgSHA256" : "c6961912a23ef27cf042842172c09c406b47e1cc43d6c7673ea5c9ee17c06fef",
       "dmgSize" : 5685366,
@@ -10,8 +43,52 @@
       "id" : "io.apparata.RepoRanger",
       "summary" : "Keep track of your app projects.",
       "version" : "1.8.0"
+    },
+    {
+      "category" : "Finance",
+      "displayName" : "Statement",
+      "dmgSHA256" : "122d66b38f667f8048cc823d2ce41108e2ffeadfd3947a5d52201ddb1a9f4289",
+      "dmgSize" : 6458589,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Statement\/releases\/download\/1.1.0\/Statement-1.1.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/StatementAppIcon.png",
+      "id" : "io.apparata.Statement",
+      "summary" : "SEB bank statement analyzer.",
+      "version" : "1.1.0"
+    },
+    {
+      "category" : "Productivity",
+      "displayName" : "Tempo",
+      "dmgSHA256" : "fd5458126e936c1261db6bf4b82d9d4ddffdbab060229931b4e9d856c235e9b5",
+      "dmgSize" : 4865694,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Tempo\/releases\/download\/1.1.0\/Tempo-1.1.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/TempoAppIcon.png",
+      "id" : "io.apparata.app.tempo",
+      "summary" : "Client for Noko time reporting.",
+      "version" : "1.1.0"
+    },
+    {
+      "category" : "Design",
+      "displayName" : "Tokenforge",
+      "dmgSHA256" : "151277d2ef78d157f908e72128e6a510fd3eee2ef67389024108b565a804ca93",
+      "dmgSize" : 5386383,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Tokenforge\/releases\/download\/1.0.0\/Tokenforge-1.0.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/TokenforgeAppIcon.png",
+      "id" : "io.apparata.Tokenforge",
+      "summary" : "Experimental design token viewer.",
+      "version" : "1.0.0"
+    },
+    {
+      "category" : "Productivity",
+      "displayName" : "Unfold",
+      "dmgSHA256" : "2d11bfe51093744125e363a368eaa5e82ad4b290a1a317aec47e1f95aa733a6e",
+      "dmgSize" : 4228015,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.4.0\/Unfold-1.4.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/UnfoldAppIcon.png",
+      "id" : "io.apparata.Unfold",
+      "summary" : "View Markdown files.",
+      "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-18T19:25:41Z",
+  "generatedAt" : "2026-04-18T22:44:46Z",
   "schemaVersion" : 1
 }

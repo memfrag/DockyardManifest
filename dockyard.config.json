@@ -1,6 +1,42 @@
 {
     "apps": [
         {
+            "id": "se.apparata.tools.Automata",
+            "displayName": "Automata",
+            "category": "Development",
+            "summary": "Design Swift state machines.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/master/app-icons/AutomataAppIcon.png",
+            "github": {
+                "owner": "apparata",
+                "repo": "Automata"
+            },
+            "assetPattern": "^Automata-.*\\.dmg$"
+        },
+        {
+            "id": "io.apparata.Bootstrapp",
+            "displayName": "Bootstrapp",
+            "category": "Development",
+            "summary": "Instantiate app project templates.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/BootstrappAppIcon.png",
+            "github": {
+                "owner": "apparata",
+                "repo": "Bootstrapp"
+            },
+            "assetPattern": "^Bootstrapp-.*\\.dmg$"
+        },
+        {
+            "id": "se.apparata.AppSnap",
+            "displayName": "Embezel",
+            "category": "Design",
+            "summary": "Add a bezel to iOS screenshots.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/EmbezelAppIcon.png",
+            "github": {
+                "owner": "apparata",
+                "repo": "Embezel"
+            },
+            "assetPattern": "^Embezel-.*\\.dmg$"            
+        },
+        {
             "id": "io.apparata.RepoRanger",
             "displayName": "RepoRanger",
             "category": "Development",
@@ -11,6 +47,54 @@
                 "repo": "RepoRanger"
             },
             "assetPattern": "^RepoRanger-.*\\.dmg$"
+        },
+        {
+            "id": "io.apparata.Statement",
+            "displayName": "Statement",
+            "category": "Finance",
+            "summary": "SEB bank statement analyzer.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/StatementAppIcon.png",
+            "github": {
+                "owner": "memfrag",
+                "repo": "Statement"
+            },
+            "assetPattern": "^Statement-.*\\.dmg$"
+        },
+        {
+            "id": "io.apparata.app.tempo",
+            "displayName": "Tempo",
+            "category": "Productivity",
+            "summary": "Client for Noko time reporting.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/TempoAppIcon.png",
+            "github": {
+                "owner": "memfrag",
+                "repo": "Tempo"
+            },
+            "assetPattern": "^Tempo-.*\\.dmg$"
+        },
+        {
+            "id": "io.apparata.Tokenforge",
+            "displayName": "Tokenforge",
+            "category": "Design",
+            "summary": "Experimental design token viewer.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/TokenforgeAppIcon.png",
+            "github": {
+                "owner": "memfrag",
+                "repo": "Tokenforge"
+            },
+            "assetPattern": "^Tokenforge-.*\\.dmg$"
+        },
+        {
+            "id": "io.apparata.Unfold",
+            "displayName": "Unfold",
+            "category": "Productivity",
+            "summary": "View Markdown files.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/UnfoldAppIcon.png",
+            "github": {
+                "owner": "memfrag",
+                "repo": "Unfold"
+            },
+            "assetPattern": "^Unfold-.*\\.dmg$"
         }
     ]
 }
