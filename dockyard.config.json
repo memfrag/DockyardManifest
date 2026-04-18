@@ -5,7 +5,7 @@
             "displayName": "RepoRanger",
             "category": "Development",
             "summary": "Keep track of your app projects.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifesto/main/app-icons/RepoRangerAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/RepoRangerAppIcon.png",
             "github": {
                 "owner": "memfrag",
                 "repo": "RepoRanger"

@@ -1,0 +1,17 @@
+{
+  "apps" : [
+    {
+      "category" : "Development",
+      "displayName" : "RepoRanger",
+      "dmgSHA256" : "c6961912a23ef27cf042842172c09c406b47e1cc43d6c7673ea5c9ee17c06fef",
+      "dmgSize" : 5685366,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/RepoRanger\/releases\/download\/1.8.0\/RepoRanger-1.8.0.dmg",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/RepoRangerAppIcon.png",
+      "id" : "io.apparata.RepoRanger",
+      "summary" : "Keep track of your app projects.",
+      "version" : "1.8.0"
+    }
+  ],
+  "generatedAt" : "2026-04-18T19:25:41Z",
+  "schemaVersion" : 1
+}
