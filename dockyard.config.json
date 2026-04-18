@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "id": "io.apparata.RepoRanger",
+            "displayName": "RepoRanger",
+            "category": "Development",
+            "summary": "Keep track of your app projects.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifesto/main/app-icons/RepoRangerAppIcon.png",
+            "github": {
+                "owner": "memfrag",
+                "repo": "RepoRanger"
+            },
+            "assetPattern": "^RepoRanger-.*\\.dmg$"
+        }
+    ]
+}
