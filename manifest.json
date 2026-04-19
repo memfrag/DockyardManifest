@@ -84,6 +84,7 @@
       "version" : "1.8.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/about.md",
       "category" : "Finance",
       "channel" : "Release",
       "displayName" : "Statement",
@@ -98,7 +99,12 @@
       "id" : "io.apparata.Statement",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Statement\/compare\/1.0.0...1.1.0",
       "screenshotURLs" : [
-
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/03.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/04.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/05.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/06.png"
       ],
       "summary" : "SEB bank statement analyzer.",
       "version" : "1.1.0"
@@ -164,6 +170,6 @@
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-19T15:08:51Z",
+  "generatedAt" : "2026-04-19T23:23:11Z",
   "schemaVersion" : 1
 }
