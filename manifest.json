@@ -13,6 +13,10 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/master\/app-icons\/AutomataAppIcon.png",
       "id" : "se.apparata.tools.Automata",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Automata\/commits\/1.0.0",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "Design Swift state machines.",
       "version" : "1.0.0"
     },
@@ -29,6 +33,10 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/BootstrappAppIcon.png",
       "id" : "io.apparata.Bootstrapp",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.0...1.6.1",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "Instantiate app project templates.",
       "version" : "1.6.1"
     },
@@ -45,10 +53,15 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/EmbezelAppIcon.png",
       "id" : "se.apparata.AppSnap",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/commits\/1.1.0",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "Add a bezel to iOS screenshots.",
       "version" : "1.1.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/about.md",
       "category" : "Development",
       "channel" : "Release",
       "displayName" : "RepoRanger",
@@ -61,6 +74,12 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/RepoRangerAppIcon.png",
       "id" : "io.apparata.RepoRanger",
+      "releaseNotes" : "- Added project tags.\r\n- Added category filters to sidebar.\r\n\r\n[Full changelog](https:\/\/github.com\/memfrag\/RepoRanger\/compare\/1.7.2...1.8.0)",
+      "screenshotURLs" : [
+        "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/03.png"
+      ],
       "summary" : "Keep track of your app projects.",
       "version" : "1.8.0"
     },
@@ -77,6 +96,10 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/StatementAppIcon.png",
       "id" : "io.apparata.Statement",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Statement\/compare\/1.0.0...1.1.0",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "SEB bank statement analyzer.",
       "version" : "1.1.0"
     },
@@ -93,6 +116,10 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/TempoAppIcon.png",
       "id" : "io.apparata.app.tempo",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Tempo\/compare\/1.0.0...1.1.0",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "Client for Noko time reporting.",
       "version" : "1.1.0"
     },
@@ -109,6 +136,10 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/TokenforgeAppIcon.png",
       "id" : "io.apparata.Tokenforge",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Tokenforge\/commits\/1.0.0",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "Experimental design token viewer.",
       "version" : "1.0.0"
     },
@@ -125,10 +156,14 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/UnfoldAppIcon.png",
       "id" : "io.apparata.Unfold",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.3.0...1.4.0",
+      "screenshotURLs" : [
+
+      ],
       "summary" : "View Markdown files.",
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-19T14:05:25Z",
+  "generatedAt" : "2026-04-19T15:08:51Z",
   "schemaVersion" : 1
 }
