@@ -6,6 +6,7 @@
             "category": "Development",
             "summary": "Design Swift state machines.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/master/app-icons/AutomataAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "apparata",
                 "repo": "Automata"
@@ -18,6 +19,7 @@
             "category": "Development",
             "summary": "Instantiate app project templates.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/BootstrappAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "apparata",
                 "repo": "Bootstrapp"
@@ -30,6 +32,7 @@
             "category": "Design",
             "summary": "Add a bezel to iOS screenshots.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/EmbezelAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "apparata",
                 "repo": "Embezel"
@@ -42,6 +45,7 @@
             "category": "Development",
             "summary": "Keep track of your app projects.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/RepoRangerAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "memfrag",
                 "repo": "RepoRanger"
@@ -54,6 +58,7 @@
             "category": "Finance",
             "summary": "SEB bank statement analyzer.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/StatementAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "memfrag",
                 "repo": "Statement"
@@ -66,6 +71,7 @@
             "category": "Productivity",
             "summary": "Client for Noko time reporting.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/TempoAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "memfrag",
                 "repo": "Tempo"
@@ -78,6 +84,7 @@
             "category": "Design",
             "summary": "Experimental design token viewer.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/TokenforgeAppIcon.png",
+            "channel": "Beta",
             "github": {
                 "owner": "memfrag",
                 "repo": "Tokenforge"
@@ -90,6 +97,7 @@
             "category": "Productivity",
             "summary": "View Markdown files.",
             "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/UnfoldAppIcon.png",
+            "channel": "Release",
             "github": {
                 "owner": "memfrag",
                 "repo": "Unfold"
