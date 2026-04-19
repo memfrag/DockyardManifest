@@ -1,0 +1,49 @@
+{
+  "generatedAt" : "2026-04-19T00:07:47Z",
+  "schemaVersion" : 1,
+  "today" : {
+    "editorsPick" : {
+      "appID" : "io.apparata.Unfold",
+      "category" : "Editor's Pick",
+      "description" : "Drag .md files onto the Unfold app icon in the dock to open them in the viewer. The viewer monitors the files for updates.",
+      "gradient" : [
+        "#38425C",
+        "#191F33"
+      ],
+      "headline" : "Open all those Markdown files that Claude creates."
+    },
+    "highlights" : [
+      {
+        "appID" : "io.apparata.Statement",
+        "category" : "New to Dockyard",
+        "description" : "Analyze your SEB bank statements and get a better grip on your finances."
+      },
+      {
+        "appID" : "io.apparata.Bootstrapp",
+        "category" : "Updated",
+        "description" : "Instantiate app project templates to avoid using too many tokens just to set up a project."
+      }
+    ],
+    "sections" : [
+      {
+        "appIDs" : [
+          "io.apparata.RepoRanger",
+          "se.apparata.tools.Automata",
+          "io.apparata.Bootstrapp"
+        ],
+        "subtitle" : "These apps are our favorite development tools right now",
+        "title" : "Favorite development tools"
+      },
+      {
+        "appIDs" : [
+          "io.apparata.app.tempo",
+          "io.apparata.Tokenforge",
+          "se.apparata.AppSnap"
+        ],
+        "subtitle" : "These apps can come in handy",
+        "title" : "Useful apps"
+      }
+    ],
+    "title" : "On the shelf this week"
+  }
+}
