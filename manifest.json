@@ -44,21 +44,21 @@
       "category" : "Design",
       "channel" : "Release",
       "displayName" : "Embezel",
-      "dmgSHA256" : "bebce08da6a80707b8d71af5fc84e0a38762135e812f86f3e037ab2beae3d560",
-      "dmgSize" : 17283118,
-      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/1.1.0\/Embezel-1.1.0.dmg",
+      "dmgSHA256" : "56e15f65c413b7b6f7d77328feb8f79c64e8be2c98ffd9ff079f85ea1bd7c5d5",
+      "dmgSize" : 17283644,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/1.2.0\/Embezel-1.2.0.dmg",
       "github" : {
         "owner" : "apparata",
         "repo" : "Embezel"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/EmbezelAppIcon.png",
       "id" : "se.apparata.AppSnap",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/commits\/1.1.0",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/compare\/1.1.0...1.2.0",
       "screenshotURLs" : [
 
       ],
       "summary" : "Add a bezel to iOS screenshots.",
-      "version" : "1.1.0"
+      "version" : "1.2.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/about.md",
@@ -97,7 +97,7 @@
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/StatementAppIcon.png",
       "id" : "io.apparata.Statement",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Statement\/compare\/1.0.0...1.1.0",
+      "releaseNotes" : "- Fixed Sparkle support.",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/01.png",
         "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/02.png",
@@ -170,6 +170,6 @@
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-19T23:23:11Z",
+  "generatedAt" : "2026-04-20T16:27:29Z",
   "schemaVersion" : 1
 }
