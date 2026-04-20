@@ -5,7 +5,7 @@
             "displayName": "Automata",
             "category": "Development",
             "summary": "Design Swift state machines.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/master/app-icons/AutomataAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/apparata/Automata/master/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "apparata",
@@ -18,7 +18,7 @@
             "displayName": "Bootstrapp",
             "category": "Development",
             "summary": "Instantiate app project templates.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/BootstrappAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/apparata/Bootstrapp/main/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "apparata",
@@ -31,7 +31,7 @@
             "displayName": "Embezel",
             "category": "Design",
             "summary": "Add a bezel to iOS screenshots.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/EmbezelAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/apparata/Embezel/main/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "apparata",
@@ -44,7 +44,7 @@
             "displayName": "RepoRanger",
             "category": "Development",
             "summary": "Keep track of your app projects.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/RepoRangerAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/RepoRanger/main/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "memfrag",
@@ -57,7 +57,7 @@
             "displayName": "Statement",
             "category": "Finance",
             "summary": "SEB bank statement analyzer.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/StatementAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/Statement/main/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "memfrag",
@@ -70,7 +70,7 @@
             "displayName": "Tempo",
             "category": "Productivity",
             "summary": "Client for Noko time reporting.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/TempoAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/Tempo/main/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "memfrag",
@@ -83,7 +83,7 @@
             "displayName": "Tokenforge",
             "category": "Design",
             "summary": "Experimental design token viewer.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/TokenforgeAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/Tokenforge/main/.dockyard/AppIcon.png",
             "channel": "Beta",
             "github": {
                 "owner": "memfrag",
@@ -96,7 +96,7 @@
             "displayName": "Unfold",
             "category": "Productivity",
             "summary": "View Markdown files.",
-            "iconURL": "https://raw.githubusercontent.com/memfrag/DockyardManifest/main/app-icons/UnfoldAppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/Unfold/main/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "memfrag",
