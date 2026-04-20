@@ -1,8 +1,10 @@
 {
   "apps" : [
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Automata\/master\/.dockyard\/about.md",
       "category" : "Development",
       "channel" : "Release",
+      "developer" : "apparata",
       "displayName" : "Automata",
       "dmgSHA256" : "e7d4b366524f4edc82b9fdc66446c8e653e557202aad0f07b92be2133c891b9b",
       "dmgSize" : 2342311,
@@ -11,18 +13,23 @@
         "owner" : "apparata",
         "repo" : "Automata"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/master\/app-icons\/AutomataAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Automata\/master\/.dockyard\/AppIcon.png",
       "id" : "se.apparata.tools.Automata",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Automata\/commits\/1.0.0",
+      "requiredVersion" : "13.0",
       "screenshotURLs" : [
-
+        "https:\/\/raw.githubusercontent.com\/apparata\/Automata\/master\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/apparata\/Automata\/master\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/apparata\/Automata\/master\/.dockyard\/screenshots\/03.png"
       ],
       "summary" : "Design Swift state machines.",
       "version" : "1.0.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/about.md",
       "category" : "Development",
       "channel" : "Release",
+      "developer" : "apparata",
       "displayName" : "Bootstrapp",
       "dmgSHA256" : "84f4924ddd53e2e443244f669bc8b0446ed01b9452e1544ff113257f8d19c29d",
       "dmgSize" : 3571896,
@@ -31,18 +38,23 @@
         "owner" : "apparata",
         "repo" : "Bootstrapp"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/BootstrappAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Bootstrapp",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.0...1.6.1",
+      "requiredVersion" : "13.0",
       "screenshotURLs" : [
-
+        "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/03.png"
       ],
       "summary" : "Instantiate app project templates.",
       "version" : "1.6.1"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/about.md",
       "category" : "Design",
       "channel" : "Release",
+      "developer" : "apparata",
       "displayName" : "Embezel",
       "dmgSHA256" : "56e15f65c413b7b6f7d77328feb8f79c64e8be2c98ffd9ff079f85ea1bd7c5d5",
       "dmgSize" : 17283644,
@@ -51,9 +63,10 @@
         "owner" : "apparata",
         "repo" : "Embezel"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/EmbezelAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/AppIcon.png",
       "id" : "se.apparata.AppSnap",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/compare\/1.1.0...1.2.0",
+      "requiredVersion" : "14.0",
       "screenshotURLs" : [
 
       ],
@@ -64,6 +77,7 @@
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/about.md",
       "category" : "Development",
       "channel" : "Release",
+      "developer" : "Martin Johannesson",
       "displayName" : "RepoRanger",
       "dmgSHA256" : "c6961912a23ef27cf042842172c09c406b47e1cc43d6c7673ea5c9ee17c06fef",
       "dmgSize" : 5685366,
@@ -72,9 +86,10 @@
         "owner" : "memfrag",
         "repo" : "RepoRanger"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/RepoRangerAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.RepoRanger",
       "releaseNotes" : "- Added project tags.\r\n- Added category filters to sidebar.\r\n\r\n[Full changelog](https:\/\/github.com\/memfrag\/RepoRanger\/compare\/1.7.2...1.8.0)",
+      "requiredVersion" : "26.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/01.png",
         "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/02.png",
@@ -87,6 +102,7 @@
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/about.md",
       "category" : "Finance",
       "channel" : "Release",
+      "developer" : "Martin Johannesson",
       "displayName" : "Statement",
       "dmgSHA256" : "122d66b38f667f8048cc823d2ce41108e2ffeadfd3947a5d52201ddb1a9f4289",
       "dmgSize" : 6458589,
@@ -95,9 +111,10 @@
         "owner" : "memfrag",
         "repo" : "Statement"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/StatementAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Statement",
       "releaseNotes" : "- Fixed Sparkle support.",
+      "requiredVersion" : "26.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/01.png",
         "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/screenshots\/02.png",
@@ -110,8 +127,10 @@
       "version" : "1.1.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tempo\/main\/.dockyard\/about.md",
       "category" : "Productivity",
       "channel" : "Release",
+      "developer" : "Martin Johannesson",
       "displayName" : "Tempo",
       "dmgSHA256" : "fd5458126e936c1261db6bf4b82d9d4ddffdbab060229931b4e9d856c235e9b5",
       "dmgSize" : 4865694,
@@ -120,18 +139,21 @@
         "owner" : "memfrag",
         "repo" : "Tempo"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/TempoAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tempo\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.app.tempo",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Tempo\/compare\/1.0.0...1.1.0",
+      "requiredVersion" : "26.0",
       "screenshotURLs" : [
-
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Tempo\/main\/.dockyard\/screenshots\/01.png"
       ],
       "summary" : "Client for Noko time reporting.",
       "version" : "1.1.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/about.md",
       "category" : "Design",
       "channel" : "Beta",
+      "developer" : "Martin Johannesson",
       "displayName" : "Tokenforge",
       "dmgSHA256" : "151277d2ef78d157f908e72128e6a510fd3eee2ef67389024108b565a804ca93",
       "dmgSize" : 5386383,
@@ -140,18 +162,24 @@
         "owner" : "memfrag",
         "repo" : "Tokenforge"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/TokenforgeAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Tokenforge",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Tokenforge\/commits\/1.0.0",
+      "requiredVersion" : "26.0",
       "screenshotURLs" : [
-
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/screenshots\/03.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/screenshots\/04.png"
       ],
       "summary" : "Experimental design token viewer.",
       "version" : "1.0.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/about.md",
       "category" : "Productivity",
       "channel" : "Release",
+      "developer" : "Martin Johannesson",
       "displayName" : "Unfold",
       "dmgSHA256" : "2d11bfe51093744125e363a368eaa5e82ad4b290a1a317aec47e1f95aa733a6e",
       "dmgSize" : 4228015,
@@ -160,16 +188,19 @@
         "owner" : "memfrag",
         "repo" : "Unfold"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DockyardManifest\/main\/app-icons\/UnfoldAppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Unfold",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.3.0...1.4.0",
+      "requiredVersion" : "26.3",
       "screenshotURLs" : [
-
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/03.png"
       ],
       "summary" : "View Markdown files.",
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-20T16:27:29Z",
+  "generatedAt" : "2026-04-20T21:26:06Z",
   "schemaVersion" : 1
 }
