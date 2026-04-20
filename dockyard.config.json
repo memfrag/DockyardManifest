@@ -18,7 +18,7 @@
             "displayName": "Bootstrapp",
             "category": "Development",
             "summary": "Instantiate app project templates.",
-            "iconURL": "https://raw.githubusercontent.com/apparata/Bootstrapp/main/.dockyard/AppIcon.png",
+            "iconURL": "https://raw.githubusercontent.com/apparata/Bootstrapp/master/.dockyard/AppIcon.png",
             "channel": "Release",
             "github": {
                 "owner": "apparata",

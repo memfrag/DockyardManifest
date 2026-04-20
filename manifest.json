@@ -38,7 +38,7 @@
         "owner" : "apparata",
         "repo" : "Bootstrapp"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/main\/.dockyard\/AppIcon.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Bootstrapp",
       "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.0...1.6.1",
       "requiredVersion" : "13.0",
@@ -201,6 +201,6 @@
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-20T21:26:06Z",
+  "generatedAt" : "2026-04-20T21:34:16Z",
   "schemaVersion" : 1
 }
