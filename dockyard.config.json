@@ -14,7 +14,7 @@
             "assetPattern": "^Automata-.*\\.dmg$"
         },
         {
-            "id": "io.apparata.Bootstrapp",
+            "id": "se.apparata.Bootstrapp",
             "displayName": "Bootstrapp",
             "category": "Development",
             "summary": "Instantiate app project templates.",
