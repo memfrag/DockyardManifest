@@ -19,7 +19,7 @@
         "description" : "Analyze your SEB bank statements and get a better grip on your finances."
       },
       {
-        "appID" : "io.apparata.Bootstrapp",
+        "appID" : "se.apparata.Bootstrapp",
         "category" : "Updated",
         "description" : "Instantiate app project templates to avoid using too many tokens just to set up a project."
       }
@@ -29,7 +29,7 @@
         "appIDs" : [
           "io.apparata.RepoRanger",
           "se.apparata.tools.Automata",
-          "io.apparata.Bootstrapp"
+          "se.apparata.Bootstrapp"
         ],
         "subtitle" : "These apps are our favorite development tools right now",
         "title" : "Favorite development tools"
