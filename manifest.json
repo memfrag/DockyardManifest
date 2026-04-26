@@ -31,16 +31,16 @@
       "channel" : "Release",
       "developer" : "Apparata AB",
       "displayName" : "Bootstrapp",
-      "dmgSHA256" : "84f4924ddd53e2e443244f669bc8b0446ed01b9452e1544ff113257f8d19c29d",
-      "dmgSize" : 3571896,
-      "dmgURL" : "https:\/\/github.com\/apparata\/Bootstrapp\/releases\/download\/1.6.1\/Bootstrapp-1.6.1.dmg",
+      "dmgSHA256" : "075e53fafebe799378c4d54a31327f94a251fafd67ce46c3db9fe9fefb8c53d4",
+      "dmgSize" : 3572009,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Bootstrapp\/releases\/download\/1.6.2\/Bootstrapp-1.6.2.dmg",
       "github" : {
         "owner" : "apparata",
         "repo" : "Bootstrapp"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/AppIcon.png",
       "id" : "se.apparata.Bootstrapp",
-      "releaseNotes" : "- Minor fixes.\r\n\r\n[Full Changelog](https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.0...1.6.1)",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.1...1.6.2",
       "requiredVersion" : "13.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/01.png",
@@ -48,7 +48,7 @@
         "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/03.png"
       ],
       "summary" : "Instantiate app project templates.",
-      "version" : "1.6.1"
+      "version" : "1.6.2"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/about.md",
@@ -79,16 +79,16 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "RepoRanger",
-      "dmgSHA256" : "c6961912a23ef27cf042842172c09c406b47e1cc43d6c7673ea5c9ee17c06fef",
-      "dmgSize" : 5685366,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/RepoRanger\/releases\/download\/1.8.0\/RepoRanger-1.8.0.dmg",
+      "dmgSHA256" : "ee8c92f37fcc0f6bb7b8589fa548c49150cd2a10a0c98d2a5d07683d41745088",
+      "dmgSize" : 5680589,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/RepoRanger\/releases\/download\/1.8.2\/RepoRanger-1.8.2.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "RepoRanger"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.RepoRanger",
-      "releaseNotes" : "- Added project tags.\r\n- Added category filters to sidebar.\r\n\r\n[Full changelog](https:\/\/github.com\/memfrag\/RepoRanger\/compare\/1.7.2...1.8.0)",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/RepoRanger\/compare\/1.8.1...1.8.2",
       "requiredVersion" : "26.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/01.png",
@@ -96,7 +96,7 @@
         "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/03.png"
       ],
       "summary" : "Keep track of your app projects.",
-      "version" : "1.8.0"
+      "version" : "1.8.2"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/about.md",
@@ -201,6 +201,6 @@
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-21T18:22:09Z",
+  "generatedAt" : "2026-04-26T13:42:31Z",
   "schemaVersion" : 1
 }
