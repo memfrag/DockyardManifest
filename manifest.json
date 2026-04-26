@@ -132,22 +132,22 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "Tempo",
-      "dmgSHA256" : "fd5458126e936c1261db6bf4b82d9d4ddffdbab060229931b4e9d856c235e9b5",
-      "dmgSize" : 4865694,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/Tempo\/releases\/download\/1.1.0\/Tempo-1.1.0.dmg",
+      "dmgSHA256" : "a6a07408c6f7d5ae9c2a9320063b54baaeffb05cca3e977065663457cc24a27c",
+      "dmgSize" : 4864196,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Tempo\/releases\/download\/1.1.1\/Tempo-1.1.1.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "Tempo"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tempo\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.app.tempo",
-      "releaseNotes" : "- Report time from the menubar popover.\r\n\r\n[Full Changelog](https:\/\/github.com\/memfrag\/Tempo\/compare\/1.0.0...1.1.0)",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Tempo\/compare\/1.1.0...1.1.1",
       "requiredVersion" : "26.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Tempo\/main\/.dockyard\/screenshots\/01.png"
       ],
       "summary" : "Client for Noko time reporting.",
-      "version" : "1.1.0"
+      "version" : "1.1.1"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/about.md",
@@ -201,6 +201,6 @@
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-26T15:23:38Z",
+  "generatedAt" : "2026-04-26T16:28:12Z",
   "schemaVersion" : 1
 }
