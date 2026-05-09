@@ -74,6 +74,29 @@
       "version" : "1.2.0"
     },
     {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/about.md",
+      "category" : "Entertainment",
+      "channel" : "Beta",
+      "developer" : "Martin Johannesson",
+      "displayName" : "Överdrift",
+      "dmgSHA256" : "61296e67a36a3b07e6f3724cd41b36029cc822b3d12ab611a069ae9998a8027e",
+      "dmgSize" : 111804539,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/overdrift-release\/releases\/download\/0.0.1\/Overdrift-0.0.1.dmg",
+      "github" : {
+        "owner" : "memfrag",
+        "repo" : "overdrift-release"
+      },
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/AppIcon.png",
+      "id" : "io.apparata.game.overdrift",
+      "screenshotURLs" : [
+        "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/screenshots\/01.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/screenshots\/02.png",
+        "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/screenshots\/03.png"
+      ],
+      "summary" : "Early accesss racing game.",
+      "version" : "0.0.1"
+    },
+    {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/about.md",
       "category" : "Development",
       "channel" : "Release",
@@ -201,6 +224,6 @@
       "version" : "1.4.0"
     }
   ],
-  "generatedAt" : "2026-04-26T21:26:37Z",
+  "generatedAt" : "2026-05-09T22:03:30Z",
   "schemaVersion" : 1
 }
