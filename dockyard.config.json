@@ -40,6 +40,19 @@
             "assetPattern": "^Embezel-.*\\.dmg$"            
         },
         {
+            "id": "io.apparata.game.overdrift",
+            "displayName": "Överdrift",
+            "category": "Entertainment",
+            "summary": "Early accesss racing game.",
+            "iconURL": "https://raw.githubusercontent.com/memfrag/overdrift-release/main/.dockyard/AppIcon.png",
+            "channel": "Beta",
+            "github": {
+                "owner": "memfrag",
+                "repo": "overdrift-release"
+            },
+            "assetPattern": "^Overdrift-.*\\.dmg$"
+        },
+        {
             "id": "io.apparata.RepoRanger",
             "displayName": "RepoRanger",
             "category": "Development",
