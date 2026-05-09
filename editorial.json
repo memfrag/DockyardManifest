@@ -14,9 +14,9 @@
     },
     "highlights" : [
       {
-        "appID" : "io.apparata.Statement",
+        "appID" : "io.apparata.game.overdrift",
         "category" : "New to Dockyard",
-        "description" : "Analyze your SEB bank statements and get a better grip on your finances."
+        "description" : "Race around a track in this early access game. PlayStation controller required."
       },
       {
         "appID" : "se.apparata.Bootstrapp",
