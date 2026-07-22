@@ -204,16 +204,16 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "Unfold",
-      "dmgSHA256" : "2d11bfe51093744125e363a368eaa5e82ad4b290a1a317aec47e1f95aa733a6e",
-      "dmgSize" : 4228015,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.4.0\/Unfold-1.4.0.dmg",
+      "dmgSHA256" : "3fde496cf1def27bb1b324be3ecacac4f69e3f4b55f16df1916bab00d398bc01",
+      "dmgSize" : 4216491,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.7.0\/Unfold-1.7.0.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "Unfold"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Unfold",
-      "releaseNotes" : "- Moved ToC sidebar to the right side of the window.\r\n\r\n[Full Changelog](https:\/\/github.com\/memfrag\/Unfold\/compare\/1.3.0...1.4.0)",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.6.2...1.7.0",
       "requiredVersion" : "26.3",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/01.png",
@@ -221,9 +221,9 @@
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/03.png"
       ],
       "summary" : "View Markdown files.",
-      "version" : "1.4.0"
+      "version" : "1.7.0"
     }
   ],
-  "generatedAt" : "2026-05-09T22:03:30Z",
+  "generatedAt" : "2026-07-22T13:27:32Z",
   "schemaVersion" : 1
 }

@@ -1,0 +1,50 @@
+name: Update manifest
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-manifest
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: memfrag/Dockyard
+          path: dockyard
+
+      - uses: actions/cache@v4
+        with:
+          path: dockyard/Packages/DockyardManifestTool/.build
+          key: spm-${{ runner.os }}-${{ hashFiles('dockyard/Packages/DockyardManifestTool/Package.resolved') }}
+
+      - name: Build manifest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dockyard/Packages/DockyardManifestTool
+          swift run -c release dockyard-manifest-tool build \
+            --config "$GITHUB_WORKSPACE/dockyard.config.json" \
+            --output "$GITHUB_WORKSPACE/manifest.json"
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain manifest.json)" ]; then
+            git config user.name "dockyard-bot"
+            git config user.email "actions@github.com"
+            git add manifest.json
+            git commit -m "Update manifest (scheduled)"
+            git push
+          else
+            echo "Manifest unchanged; nothing to commit"
+          fi
