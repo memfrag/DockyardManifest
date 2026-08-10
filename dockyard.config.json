@@ -9,7 +9,6 @@
         "owner" : "apparata",
         "repo" : "Automata"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Automata\/master\/.dockyard\/AppIcon.png",
       "id" : "se.apparata.tools.Automata",
       "summary" : "Design Swift state machines."
     },
@@ -22,7 +21,6 @@
         "owner" : "apparata",
         "repo" : "Bootstrapp"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/AppIcon.png",
       "id" : "se.apparata.Bootstrapp",
       "summary" : "Instantiate app project templates."
     },
@@ -35,7 +33,6 @@
         "owner" : "apparata",
         "repo" : "Embezel"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/AppIcon.png",
       "id" : "se.apparata.AppSnap",
       "summary" : "Add a bezel to iOS screenshots."
     },
@@ -48,7 +45,6 @@
         "owner" : "memfrag",
         "repo" : "overdrift-release"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.game.overdrift",
       "summary" : "Early accesss racing game."
     },
@@ -61,7 +57,6 @@
         "owner" : "memfrag",
         "repo" : "RepoRanger"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.RepoRanger",
       "summary" : "Keep track of your app projects."
     },
@@ -74,7 +69,6 @@
         "owner" : "memfrag",
         "repo" : "Statement"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Statement",
       "summary" : "SEB bank statement analyzer."
     },
@@ -87,7 +81,6 @@
         "owner" : "memfrag",
         "repo" : "Tempo"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tempo\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.app.tempo",
       "summary" : "Client for Noko time reporting."
     },
@@ -100,7 +93,6 @@
         "owner" : "memfrag",
         "repo" : "Tokenforge"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Tokenforge\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Tokenforge",
       "summary" : "Experimental design token viewer."
     },
@@ -113,7 +105,6 @@
         "owner" : "memfrag",
         "repo" : "Unfold"
       },
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/AppIcon.png",
       "id" : "io.apparata.Unfold",
       "summary" : "View Markdown files."
     },
