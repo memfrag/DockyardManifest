@@ -243,10 +243,10 @@
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/screenshots\/01.png"
       ],
-      "summary" : "Flowplan is a native macOS app for planning work as a dependency graph instead of a flat to-do list — each task's state is derived from its dependencies, so it shows as blocked until everything it needs is done, and finishing one task instantly unlocks whatever was waiting on it. View your plan as a graph, list, board or timeline, filter it with saved smart groups, and sync it across your Macs over iCloud. It also hosts an MCP server, so Claude Code or any other MCP agent can read what's ready, update tasks, and record findings directly in the plan you're looking at.",
+      "summary" : "Plan work as a dependency graph, not a to-do list.",
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-08-10T20:27:58Z",
+  "generatedAt" : "2026-08-10T20:35:08Z",
   "schemaVersion" : 1
 }
