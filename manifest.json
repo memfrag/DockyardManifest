@@ -222,8 +222,31 @@
       ],
       "summary" : "View Markdown files.",
       "version" : "1.7.0"
+    },
+    {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/about.md",
+      "category" : "Productivity",
+      "channel" : "Release",
+      "developer" : "Martin Johannesson",
+      "displayName" : "Flowplan",
+      "dmgSHA256" : "b42291d4b3d04562cad296f9951adfc2b5ba593d51cd3123cc445858b8fbb5de",
+      "dmgSize" : 8568958,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Flowplan\/releases\/download\/1.1.0\/Flowplan-1.1.0.dmg",
+      "github" : {
+        "owner" : "memfrag",
+        "repo" : "Flowplan"
+      },
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/AppIcon.png",
+      "id" : "io.apparata.Flowplan",
+      "releaseNotes" : "## Smart Groups\n\nThe sidebar has a new **Smart Groups** section: saved, named filters over a project's tasks.\n\nCreate one with \"New Smart Group…\" and combine any of:\n\n- **Status** — blocked, ready, in progress, done, closed\n- **Priority** — low, medium, high\n- **Tags and categories** — comma-separated; a task matches if it has any one of them\n- **Deadline** — only overdue tasks, or only tasks due within a chosen number of days\n- **Text** — matched against title, description, notes, category and tags\n\nCriteria combine the way you'd expect: a group with two tags and two statuses matches tasks that have either tag *and* are in either status. Leave a criterion empty to ignore it.\n\nSelecting a smart group filters exactly as the Focus rows already do — non-matching tasks are dimmed on the graph and hidden from the list, board and timeline. Right-click a group to edit or delete it.\n\nSmart groups belong to a project and sync via iCloud along with everything else.",
+      "requiredVersion" : "26.0",
+      "screenshotURLs" : [
+        "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/screenshots\/01.png"
+      ],
+      "summary" : "Flowplan is a native macOS app for planning work as a dependency graph instead of a flat to-do list — each task's state is derived from its dependencies, so it shows as blocked until everything it needs is done, and finishing one task instantly unlocks whatever was waiting on it. View your plan as a graph, list, board or timeline, filter it with saved smart groups, and sync it across your Macs over iCloud. It also hosts an MCP server, so Claude Code or any other MCP agent can read what's ready, update tasks, and record findings directly in the plan you're looking at.",
+      "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-07-22T13:27:32Z",
+  "generatedAt" : "2026-08-10T20:27:58Z",
   "schemaVersion" : 1
 }
