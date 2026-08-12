@@ -204,16 +204,16 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "Unfold",
-      "dmgSHA256" : "3fde496cf1def27bb1b324be3ecacac4f69e3f4b55f16df1916bab00d398bc01",
-      "dmgSize" : 4216491,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.7.0\/Unfold-1.7.0.dmg",
+      "dmgSHA256" : "13ea6a65269245cf71c906afdf613bc7bfccd9ff01058a50feadfab794801521",
+      "dmgSize" : 4243950,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.8.0\/Unfold-1.8.0.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "Unfold"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/AppIcon.png?v=c50a2b04cb8e",
       "id" : "io.apparata.Unfold",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.6.2...1.7.0",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.7.0...1.8.0",
       "requiredVersion" : "26.3",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/01.png?v=3887a79e1cbd",
@@ -221,7 +221,7 @@
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/03.png?v=e69eecf7f270"
       ],
       "summary" : "View Markdown files.",
-      "version" : "1.7.0"
+      "version" : "1.8.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/about.md?v=99b0fa723675",
@@ -247,6 +247,6 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-08-10T20:48:43Z",
+  "generatedAt" : "2026-08-12T06:46:08Z",
   "schemaVersion" : 1
 }
