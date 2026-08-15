@@ -114,5 +114,16 @@
         "repo" : "Flowplan"
       }
     }
+  ],
+  "webApps" : [
+    {
+      "category" : "Productivity",
+      "developer" : "Martin Johannesson",
+      "displayName" : "Scrub",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Scrub\/main\/.dockyard\/AppIcon.png?v=9f88d2aca55c",
+      "id" : "web.memfrag.scrub",
+      "summary" : "Read and remove image metadata, in your browser.",
+      "webURL" : "https:\/\/memfrag.github.io\/Scrub\/"
+    }
   ]
 }
