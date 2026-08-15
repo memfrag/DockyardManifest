@@ -247,6 +247,21 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-08-15T05:44:54Z",
-  "schemaVersion" : 1
+  "generatedAt" : "2026-08-15T23:37:06Z",
+  "schemaVersion" : 1,
+  "webApps" : [
+    {
+      "category" : "Productivity",
+      "channel" : "Release",
+      "developer" : "Martin Johannesson",
+      "displayName" : "Scrub",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Scrub\/main\/.dockyard\/AppIcon.png?v=9f88d2aca55c",
+      "id" : "web.memfrag.scrub",
+      "screenshotURLs" : [
+
+      ],
+      "summary" : "Read and remove image metadata, in your browser.",
+      "webURL" : "https:\/\/memfrag.github.io\/Scrub\/"
+    }
+  ]
 }
