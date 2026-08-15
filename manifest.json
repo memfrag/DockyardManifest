@@ -102,16 +102,16 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "RepoRanger",
-      "dmgSHA256" : "67db7195b53da5add33b45af8ea60de5e70e6f856011cb8d34e9f84ca92da4ae",
-      "dmgSize" : 5683356,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/RepoRanger\/releases\/download\/1.8.3\/RepoRanger-1.8.3.dmg",
+      "dmgSHA256" : "674f28f1c423324a58cebb9953b6be6ff46f9dd67ac1bacc8b7aa8bffbc8eecf",
+      "dmgSize" : 5689329,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/RepoRanger\/releases\/download\/1.9.0\/RepoRanger-1.9.0.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "RepoRanger"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/AppIcon.png?v=38a26b69333c",
       "id" : "io.apparata.RepoRanger",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/RepoRanger\/compare\/1.8.2...1.8.3",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/RepoRanger\/compare\/1.8.3...1.9.0",
       "requiredVersion" : "26.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/01.png?v=49cd8d517d7b",
@@ -119,7 +119,7 @@
         "https:\/\/raw.githubusercontent.com\/memfrag\/RepoRanger\/main\/.dockyard\/screenshots\/03.png?v=27b47c16f2c3"
       ],
       "summary" : "Keep track of your app projects.",
-      "version" : "1.8.3"
+      "version" : "1.9.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Statement\/main\/.dockyard\/about.md?v=d139dedceaa3",
@@ -247,6 +247,6 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-08-13T06:50:14Z",
+  "generatedAt" : "2026-08-15T05:44:54Z",
   "schemaVersion" : 1
 }
