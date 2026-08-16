@@ -247,7 +247,7 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-08-15T23:37:06Z",
+  "generatedAt" : "2026-08-16T01:00:17Z",
   "schemaVersion" : 1,
   "webApps" : [
     {
@@ -262,6 +262,19 @@
       ],
       "summary" : "Read and remove image metadata, in your browser.",
       "webURL" : "https:\/\/memfrag.github.io\/Scrub\/"
+    },
+    {
+      "category" : "Productivity",
+      "channel" : "Release",
+      "developer" : "Martin Johannesson",
+      "displayName" : "Whodat",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Whodat\/main\/.dockyard\/AppIcon.png?v=47d3bbc5d323",
+      "id" : "web.memfrag.whodat",
+      "screenshotURLs" : [
+
+      ],
+      "summary" : "Tag a meeting transcript with who said what.",
+      "webURL" : "https:\/\/memfrag.github.io\/Whodat\/"
     }
   ]
 }
