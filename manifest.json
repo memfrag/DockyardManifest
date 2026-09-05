@@ -245,9 +245,32 @@
       ],
       "summary" : "Plan work as a dependency graph, not a to-do list.",
       "version" : "1.1.0"
+    },
+    {
+      "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DueDate\/main\/.dockyard\/about.md?v=809045fa9214",
+      "category" : "Finance",
+      "channel" : "Release",
+      "developer" : "Martin Johannesson",
+      "displayName" : "DueDate",
+      "dmgSHA256" : "35be6c8ef4b91438c52698eae63a831da62ec9231034acd667ad364dd7e72bdc",
+      "dmgSize" : 4417891,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/DueDate\/releases\/download\/1.0.0\/DueDate-1.0.0.dmg",
+      "github" : {
+        "owner" : "memfrag",
+        "repo" : "DueDate"
+      },
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/DueDate\/main\/.dockyard\/AppIcon.png?v=a0b177479806",
+      "id" : "io.apparata.DueDate",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/DueDate\/commits\/1.0.0",
+      "requiredVersion" : "26.0",
+      "screenshotURLs" : [
+
+      ],
+      "summary" : "Track subscriptions, bills and renewals.",
+      "version" : "1.0.0"
     }
   ],
-  "generatedAt" : "2026-08-17T05:31:15Z",
+  "generatedAt" : "2026-09-05T09:57:33Z",
   "schemaVersion" : 1,
   "webApps" : [
     {
