@@ -113,6 +113,12 @@
         "owner" : "memfrag",
         "repo" : "Flowplan"
       }
+    },
+    {
+      "github" : {
+        "owner" : "memfrag",
+        "repo" : "DueDate"
+      }
     }
   ],
   "webApps" : [
