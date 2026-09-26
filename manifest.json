@@ -31,16 +31,16 @@
       "channel" : "Release",
       "developer" : "Apparata AB",
       "displayName" : "Bootstrapp",
-      "dmgSHA256" : "3d412a40055ab2969fda2ce67083e3ddfed71ea4e7e09a273d57bfaec6bf6745",
-      "dmgSize" : 3571990,
-      "dmgURL" : "https:\/\/github.com\/apparata\/Bootstrapp\/releases\/download\/1.6.4\/Bootstrapp-1.6.4.dmg",
+      "dmgSHA256" : "5b3a733143ca34a5970e22e96287f7ebab2723eabd1eb60e5e518024c963fe07",
+      "dmgSize" : 3493613,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Bootstrapp\/releases\/download\/1.6.5\/Bootstrapp-1.6.5.dmg",
       "github" : {
         "owner" : "apparata",
         "repo" : "Bootstrapp"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/AppIcon.png?v=8138417faf8c",
       "id" : "se.apparata.Bootstrapp",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.3...1.6.4",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Bootstrapp\/compare\/1.6.4...1.6.5",
       "requiredVersion" : "13.0",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/01.png?v=a76a5f5df6f5",
@@ -48,7 +48,7 @@
         "https:\/\/raw.githubusercontent.com\/apparata\/Bootstrapp\/master\/.dockyard\/screenshots\/03.png?v=ea2118436c4c"
       ],
       "summary" : "Instantiate app project templates.",
-      "version" : "1.6.4"
+      "version" : "1.6.5"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/about.md?v=f19cfad4d652",
@@ -271,7 +271,7 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-09-26T11:46:16Z",
+  "generatedAt" : "2026-09-26T12:16:42Z",
   "schemaVersion" : 1,
   "webApps" : [
     {
