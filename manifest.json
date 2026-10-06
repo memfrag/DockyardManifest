@@ -56,22 +56,22 @@
       "channel" : "Release",
       "developer" : "Apparata AB",
       "displayName" : "Embezel",
-      "dmgSHA256" : "ff5e2abafff39db0251986dda2f0fe8b9a6b1660290daf09b4b22fcdfe5260c7",
-      "dmgSize" : 35742463,
-      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/2.0.0\/Embezel-2.0.0.dmg",
+      "dmgSHA256" : "fb5efa770589b3792e8c0c65d30d574c53c9362c9bc3b3a14a43227bdbce2103",
+      "dmgSize" : 35845627,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/2.1.0\/Embezel-2.1.0.dmg",
       "github" : {
         "owner" : "apparata",
         "repo" : "Embezel"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/AppIcon.png?v=3e66a4eabdc0",
       "id" : "se.apparata.AppSnap",
-      "releaseNotes" : "New frames for iPhone 16, 17, Air, 17 Pro\/Pro Max, 18 Pro\/Pro Max and iPhone Duo (all poses), in portrait and landscape (rotatable). The window now resizes to fit the frame. Removed: iPhone 14\/15 frames, video framing, and the menu bar extra.\n\n\n\n**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/compare\/1.2.0...2.0.0",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/compare\/2.0.0...2.1.0",
       "requiredVersion" : "14.0",
       "screenshotURLs" : [
 
       ],
       "summary" : "Add a bezel to iOS screenshots.",
-      "version" : "2.0.0"
+      "version" : "2.1.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/about.md?v=a5f977e610db",
@@ -204,16 +204,16 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "Unfold",
-      "dmgSHA256" : "ff7eb775f9437ee3cbc716ecf1829d40a55def62940cce6ff223a8f2c7df806f",
-      "dmgSize" : 4358228,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.10.0\/Unfold-1.10.0.dmg",
+      "dmgSHA256" : "4bcdb7495d779b53c264553cdf87828a929f75782b32e791c706f2b514c756cf",
+      "dmgSize" : 4386335,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.11.0\/Unfold-1.11.0.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "Unfold"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/AppIcon.png?v=c50a2b04cb8e",
       "id" : "io.apparata.Unfold",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.9.0...1.10.0",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.10.0...1.11.0",
       "requiredVersion" : "26.3",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/01.png?v=3887a79e1cbd",
@@ -221,7 +221,7 @@
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/03.png?v=e69eecf7f270"
       ],
       "summary" : "View Markdown files.",
-      "version" : "1.10.0"
+      "version" : "1.11.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/about.md?v=99b0fa723675",
@@ -271,7 +271,7 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-10-04T07:14:51Z",
+  "generatedAt" : "2026-10-06T05:32:59Z",
   "schemaVersion" : 1,
   "webApps" : [
     {
