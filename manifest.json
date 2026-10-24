@@ -56,22 +56,22 @@
       "channel" : "Release",
       "developer" : "Apparata AB",
       "displayName" : "Embezel",
-      "dmgSHA256" : "fb5efa770589b3792e8c0c65d30d574c53c9362c9bc3b3a14a43227bdbce2103",
-      "dmgSize" : 35845627,
-      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/2.1.0\/Embezel-2.1.0.dmg",
+      "dmgSHA256" : "0ea57617d7bb4e1bcba8916ed1b1eca84a0bc94007a71c805296c988158c57fc",
+      "dmgSize" : 36002178,
+      "dmgURL" : "https:\/\/github.com\/apparata\/Embezel\/releases\/download\/2.2.0\/Embezel-2.2.0.dmg",
       "github" : {
         "owner" : "apparata",
         "repo" : "Embezel"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/apparata\/Embezel\/main\/.dockyard\/AppIcon.png?v=3e66a4eabdc0",
       "id" : "se.apparata.AppSnap",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/compare\/2.0.0...2.1.0",
+      "releaseNotes" : "Batch processing: drop several screenshots and recordings, or a folder, to frame them all at once. One device picker per group with per-item overrides, drag a selection or everything out, export to a folder, and preview items large with Space.\n\n\n\n**Full Changelog**: https:\/\/github.com\/apparata\/Embezel\/compare\/2.1.0...2.2.0",
       "requiredVersion" : "14.0",
       "screenshotURLs" : [
 
       ],
       "summary" : "Add a bezel to iOS screenshots.",
-      "version" : "2.1.0"
+      "version" : "2.2.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/overdrift-release\/main\/.dockyard\/about.md?v=a5f977e610db",
@@ -204,16 +204,16 @@
       "channel" : "Release",
       "developer" : "Martin Johannesson",
       "displayName" : "Unfold",
-      "dmgSHA256" : "4bcdb7495d779b53c264553cdf87828a929f75782b32e791c706f2b514c756cf",
-      "dmgSize" : 4386335,
-      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.11.0\/Unfold-1.11.0.dmg",
+      "dmgSHA256" : "3860c5eed22dba3baa77d29d8abced0c696da7d275786881f9a70d2a6dd14b32",
+      "dmgSize" : 5984361,
+      "dmgURL" : "https:\/\/github.com\/memfrag\/Unfold\/releases\/download\/1.12.0\/Unfold-1.12.0.dmg",
       "github" : {
         "owner" : "memfrag",
         "repo" : "Unfold"
       },
       "iconURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/AppIcon.png?v=c50a2b04cb8e",
       "id" : "io.apparata.Unfold",
-      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.10.0...1.11.0",
+      "releaseNotes" : "**Full Changelog**: https:\/\/github.com\/memfrag\/Unfold\/compare\/1.11.0...1.12.0",
       "requiredVersion" : "26.3",
       "screenshotURLs" : [
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/01.png?v=3887a79e1cbd",
@@ -221,7 +221,7 @@
         "https:\/\/raw.githubusercontent.com\/memfrag\/Unfold\/main\/.dockyard\/screenshots\/03.png?v=e69eecf7f270"
       ],
       "summary" : "View Markdown files.",
-      "version" : "1.11.0"
+      "version" : "1.12.0"
     },
     {
       "aboutURL" : "https:\/\/raw.githubusercontent.com\/memfrag\/Flowplan\/main\/.dockyard\/about.md?v=99b0fa723675",
@@ -271,7 +271,7 @@
       "version" : "1.1.0"
     }
   ],
-  "generatedAt" : "2026-10-06T05:32:59Z",
+  "generatedAt" : "2026-10-24T05:29:24Z",
   "schemaVersion" : 1,
   "webApps" : [
     {
